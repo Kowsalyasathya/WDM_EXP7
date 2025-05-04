@@ -1,6 +1,8 @@
-### EX7 Implementation of Link Analysis using HITS Algorithm
+## EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 04.05.2025
-### AIM: To implement Link Analysis using HITS Algorithm in Python.
+### AIM: 
+To implement Link Analysis using HITS Algorithm in Python.
+
 ### Description:
 <div align = "justify">
 The HITS (Hyperlink-Induced Topic Search) algorithm is a link analysis algorithm used to rank web pages. It identifies authority and hub pages 
